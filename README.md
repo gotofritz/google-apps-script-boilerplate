@@ -1,4 +1,4 @@
-The task: a couple of Google Apps Script for Spreadsheets boilerplates.
+I used to do a lot of Google Apps Script (GAS) programming, but Google's never seemed to interested in that product so I gave up. Here I document a simple boilerplate project so that I don't forget how to do it.
 
-This is one of my weekly challenges, more info at: http://gotofritz.net/blog/weekly-challenge/google-apps-script-boilerplate/
+http://gotofritz.net/blog/weekly-challenge/google-apps-script-boilerplate/
 
